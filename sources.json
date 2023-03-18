@@ -1,0 +1,27 @@
+{
+	"mcbbs": {
+		"needDo": true,
+		"version_manifest_v2": "https://download.mcbbs.net/mc/game/version_manifest_v2.json",
+		"version_manifest": "https://download.mcbbs.net/mc/game/version_manifest.json",
+		"assetsRoot": "https://download.mcbbs.net/assets/",
+		"indexRoot": "https://download.mcbbs.net/",
+		"versionRoot": "https://download.mcbbs.net/",
+		"libRoot": "https://download.mcbbs.net/maven/",
+		"authlib-injectorRoot": "https://download.mcbbs.net/mirrors/authlib-injector/",
+		"verjarRoot": "https://download.mcbbs.net"
+	},
+	"bmclapi": {
+		"needDo": true,
+		"version_manifest_v2": "https://bmclapi2.bangbang93.com/mc/game/version_manifest_v2.json",
+		"version_manifest": "https://bmclapi2.bangbang93.com/mc/game/version_manifest.json",
+		"assetsRoot": "https://bmclapi2.bangbang93.com/assets/",
+		"indexRoot": "https://bmclapi2.bangbang93.com/",
+		"versionRoot": "https://bmclapi2.bangbang93.com/",
+		"libRoot": "https://bmclapi2.bangbang93.com/maven/",
+		"authlib-injectorRoot": "https://bmclapi2.bangbang93.com/mirrors/authlib-injector/",
+		"verjarRoot": "https://bmclapi2.bangbang93.com"
+	},
+	"mojang": {
+		"needDo": false
+	}
+}
